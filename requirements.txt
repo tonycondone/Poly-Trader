@@ -3,4 +3,4 @@ openai==1.68.0
 python-dotenv==1.0.0
 serpapi==0.1.5
 web3==7.10.0
-requests==2.32.3 
+requests==2.33.0 
